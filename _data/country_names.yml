@@ -7,7 +7,7 @@
 -
   index: 'map_2'
   country_name: 'ALBANIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_3'
@@ -97,7 +97,7 @@
 -
   index: 'map_20'
   country_name: 'BOSNIA AND HERZEGOVINA'
-  visited: false
+  visited: true
 
 -
   index: 'map_21'
@@ -162,7 +162,7 @@
 -
   index: 'map_33'
   country_name: 'CHINA'
-  visited: True
+  visited: false
 
 -
   index: 'map_34'
@@ -187,7 +187,7 @@
 -
   index: 'map_38'
   country_name: 'CROATIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_39'
@@ -237,7 +237,7 @@
 -
   index: 'map_48'
   country_name: 'EGYPT'
-  visited: false
+  visited: true
 
 -
   index: 'map_49'
@@ -277,7 +277,7 @@
 -
   index: 'map_56'
   country_name: 'FRANCE'
-  visited: true
+  visited: false
 
 -
   index: 'map_57'
@@ -307,7 +307,7 @@
 -
   index: 'map_62'
   country_name: 'GREECE'
-  visited: false
+  visited: true
 
 -
   index: 'map_63'
@@ -347,7 +347,7 @@
 -
   index: 'map_70'
   country_name: 'HUNGARY'
-  visited: false
+  visited: true
 
 -
   index: 'map_71'
@@ -387,7 +387,7 @@
 -
   index: 'map_78'
   country_name: 'ITALY'
-  visited: true
+  visited: false
 
 -
   index: 'map_79'
@@ -537,7 +537,7 @@
 -
   index: 'map_108'
   country_name: 'MONTENEGRO'
-  visited: false
+  visited: true
 
 -
   index: 'map_109'
@@ -567,7 +567,7 @@
 -
   index: 'map_114'
   country_name: 'NETHERLANDS'
-  visited: false
+  visited: true
 
 -
   index: 'map_115'
@@ -642,7 +642,7 @@
 -
   index: 'map_129'
   country_name: 'POLAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_130'
@@ -687,7 +687,7 @@
 -
   index: 'map_138'
   country_name: 'SERBIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_139'
@@ -707,7 +707,7 @@
 -
   index: 'map_142'
   country_name: 'SLOVAKIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_143'
@@ -852,12 +852,12 @@
 -
   index: 'map_171'
   country_name: 'UNITED KINGDOM'
-  visited: true
+  visited: false
 
 -
   index: 'map_172'
   country_name: 'UNITED STATES'
-  visited: true
+  visited: false
 
 -
   index: 'map_173'
